@@ -28,3 +28,13 @@ Questions I encountered while taking the course
 - [ ] Virtual Private Cloud 
 - [ ] Virtual Cloud Network 
 - [x] FastConnect (*)
+
+
+## 2 : Autonomous Database (ADB)
+## 3 : Exadata & Database Cloud Service (DBCS)
+## 4 : MySQL & NoSQL
+## 5 : Converged Database
+## 6 : Resiliency
+## 7 : Developing on Oracle Database
+## 8 : Data Lake, Data Warehouse & Machine Learning
+## 9 : Upgrades & Migrations
