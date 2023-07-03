@@ -1,8 +1,9 @@
 # Oracle-Cloud-Data-Management-2023-Foundations-Associate
 Questions I encountered while taking the course
 
+## 1 : Data Management Introduction
 
-Test: Skill Check: Data Management Introduction
+#### Test: Skill Check: Data Management Introduction
 
 1. Which two statements are true about the Autonomous Database?
 - [ ] Running of complex applications, such as Siebel, is not available. 
