@@ -31,6 +31,12 @@ Questions I encountered while taking the course
 
 
 ## 2 : Autonomous Database (ADB)
+Dedicated infrastructure provides a Private Database Cloud, enabling IT to achieve the highest degree of security and governance while providing a completely self-service database experience for its users.
+TRUE
+
+Oracle Autonomous Transaction Processing (ATP) is designed to run all enterprise applications, from simple web apps to mission-critical enterprise applications, including mixed workloads and real-time analytics, with no compromise on app performance.
+TRUE
+
 ## 3 : Exadata & Database Cloud Service (DBCS)
 ## 4 : MySQL & NoSQL
 ## 5 : Converged Database
