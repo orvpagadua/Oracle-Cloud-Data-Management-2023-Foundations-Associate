@@ -43,9 +43,9 @@ TRUE
 1. Which three are required for provisioning an Oracle Autonomous Database instance?
    
 - [x] workload type 
-- [x] backup location FRA size 
+- [ ] backup location FRA size 
 - [ ] number of tablespaces 
-- [ ] database name 
+- [x] database name 
 - [x] number of CPUs
 
 2. Which two actions can be performed from the OCI Console for an Oracle Autonomous Database?
