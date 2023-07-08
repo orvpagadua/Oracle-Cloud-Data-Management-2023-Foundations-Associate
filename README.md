@@ -75,6 +75,11 @@ TRUE
 - [x] It is used for OLTP and mixed workloads.
       
 ## 3 : Exadata & Database Cloud Service (DBCS)
+
+With Exadata Cloud Service, customers benefit from cloud economics and only pay for what they use.
+True
+
+
 ## 4 : MySQL & NoSQL
 ## 5 : Converged Database
 ## 6 : Resiliency
