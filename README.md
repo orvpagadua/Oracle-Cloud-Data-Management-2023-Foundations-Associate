@@ -79,6 +79,8 @@ TRUE
 With Exadata Cloud Service, customers benefit from cloud economics and only pay for what they use.
 True
 
+In terms of service operation, Oracle manages everything running in the database VM and customers manage the Exadata infrastructure.
+False
 
 ## 4 : MySQL & NoSQL
 ## 5 : Converged Database
