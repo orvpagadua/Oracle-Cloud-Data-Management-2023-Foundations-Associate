@@ -88,6 +88,38 @@ Enterprise Edition High Performance
 ---Standard Edition 2
 Enterprise Edition Extreme Performance
 
+### Exadata and DBCS
+
+1. Which is NOT the responsibility of a customer in a simple cloud management model?
+- [ ] Control access to customer VMs. 
+- [ ] Manage everything inside the database. 
+- [x] Manage database servers and VM hosts. 
+- [ ] Subscribe to database servers. 
+
+2. Which are two advantages of Oracle Databases on Virtual Machines?
+- [ ] provide dedicated resources 
+- [ ] run only OLTP database workloads 
+- [x] lower cost with pay-per-use 
+- [x] provisioned with block storage
+
+3. Which two statements are true about the default configuration for automatic database backups?
+- [x] Archive redo log files are backed up every 30 minutes. (*) 
+- [ ] The retention period is set at 14 days. 
+- [x] Backups are executed in the primary site. (*) 
+- [ ] Backups occur weekly
+
+4. Which two are management interfaces for Exadata Cloud Service?
+- [ ] SQL Worksheet 
+- [x] Oracle Cloud Rest APIs 
+- [ ] OCI Console 
+- [x] Oracle Cloud Web-Based UI
+
+5. Which update is Oracle’s responsibility for the maintenance of Exadata Cloud Service?
+- [ ] Database Updates 
+- [ ] Exadata OS Updates 
+- [x] Infrastructure Updates 
+- [ ] Grid Infrastructure
+
 ## 4 : MySQL & NoSQL
 ## 5 : Converged Database
 ## 6 : Resiliency
