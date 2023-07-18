@@ -82,6 +82,12 @@ True
 In terms of service operation, Oracle manages everything running in the database VM and customers manage the Exadata infrastructure.
 False
 
+Which package includes Active Data Guard, Oracle RAC, and Database In-Memory?
+Enterprise Edition
+Enterprise Edition High Performance
+---Standard Edition 2
+Enterprise Edition Extreme Performance
+
 ## 4 : MySQL & NoSQL
 ## 5 : Converged Database
 ## 6 : Resiliency
