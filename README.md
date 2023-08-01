@@ -188,6 +188,39 @@ Enterprise Edition Extreme Performance
 High Availability is a method of protecting computer systems from failure, in which standby equipment automatically takes over when the main system fails.
 ```False```
 
+Which two are true about Oracle Transparent Application Continuity (TAC)?
+```It transparently tracks and records session information in case there is a failure```
+```It uses Application Continuity and Oracle Real Application Clusters```
+
+Active Data Guard is the Oracle solution for disaster recovery. It eliminates single point of failure by providing one or more synchronized physical replicas of the production database.
+```False```
+
+### Test: Skill Check: Resiliency
+
+1. Which two are true about Oracle Real Application Clusters (RAC)?
+- [x] utilizes two or more instances of an Oracle Database concurrently (*) 
+- [ ] requires manual failover 
+- [ ] Is ideal for database consolidation 
+- [x] zero downtime rolling maintenance (*)
+
+2. Which are the three security zones of control?
+- [ ] Manage 
+- [ ] Solve 
+- [x] Prevent (*) 
+- [x] Assess (*) 
+- [x] Detect (*)
+
+3. Which of the following has expanded flexibility with shared or dedicated Exadata infrastructure?
+- [x] Oracle Autonomous Database (*) 
+- [ ] Oracle Database Cloud Service 
+- [ ] Oracle Exadata Cloud Service
+
+4. Which two are true about Oracle Transparent Application Continuity (TAC)?
+- [x] It uses Application Continuity and Oracle Real Application Clusters. (*) 
+- [x] It transparently tracks and records session information in case there is a failure. (*) 
+- [ ] The application sees errors during outages. 
+- [ ] It's built outside of the database.
+
 ## 7 : Developing on Oracle Database
 ## 8 : Data Lake, Data Warehouse & Machine Learning
 ## 9 : Upgrades & Migrations
