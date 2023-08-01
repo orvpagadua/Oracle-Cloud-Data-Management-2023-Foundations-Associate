@@ -155,6 +155,34 @@ Enterprise Edition Extreme Performance
 - [ ] File systems 
 
 ## 5 : Converged Database
+
+### Test: Skill Check: Converged Database
+
+1. Which two are true about Spatial Studio?
+- [ ] Spatial Studio can be included at an additional cost with Oracle Autonomous Database. 
+- [ ] It is not a self-service application. 
+- [x] Users can convert address data to coordinates so that they can plot locations on a map. (*) 
+- [x] You can create interactive maps and perform spatial analysis on business data quickly and easily. (*)
+
+2. Which two statements are true about an Autonomous JSON database?
+- [ ] A DBA is required. 
+- [x] It has instant auto-scaling. (*) 
+- [ ] Applications cannot be built without SQL. 
+- [x] The Autonomous JSON database is accessed via document APIs. (*)
+
+3. Which three options can developers use to access spatial features?
+- [ ] Location 
+- [x] PL/SQL (*) 
+- [x] Python (*) 
+- [ ] JEE 
+- [x] Node.js (*)
+
+4. Which two are true about Graph Analytics?
+- [x] Oracle provides an Open-Source Graph Language (PGQL). (*) 
+- [ ] There are no in-memory parallel analytic graph functions. 
+- [ ] Graph Analytics is not free with all Oracle Database editions. 
+- [x] Graph Analytics can be used to discover influencers, dependencies, communities, and ranking. (*)
+
 ## 6 : Resiliency
 ## 7 : Developing on Oracle Database
 ## 8 : Data Lake, Data Warehouse & Machine Learning
