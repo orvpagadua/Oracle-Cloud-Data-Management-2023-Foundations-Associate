@@ -121,6 +121,39 @@ Enterprise Edition Extreme Performance
 - [ ] Grid Infrastructure
 
 ## 4 : MySQL & NoSQL
+
+### Test: Skill Check: MySQL and NoSQL
+
+1. Which component is not included in a MySQL Database Service DB System?
+- [ ] Virtual Network Interface 
+- [x] FastConnect 
+- [ ] Compute Instance 
+- [ ] Block Storage
+
+2. Which command for the MySQL Data Service will resume OCPU billing?
+- [x] Restart
+- [ ] Stop 
+- [ ] Start 
+- [ ] Backup 
+
+3. Which are two responsibilities of a developer or user when managing NoSQL Database Cloud Service?
+- [ ] installation of software and updates 
+- [ ] replication across multiple availability domains 
+- [x] setting roles and privileges 
+- [x] application development  
+
+4. Which two statements describe HeatWave Clusters?
+- [x] It has an in-memory engine for fast execution of analytic queries. 
+- [ ] Restarting will only make the existing data available again. 
+- [x] It is exclusively available in OCI.
+- [ ] Stopping Heatwave Clusters continues billing because of the data. 
+
+5. Where is the data stored in MySQL Database?
+- [ ] Storage Management 
+- [x] Block Volumes 
+- [ ] Object Storage 
+- [ ] File systems 
+
 ## 5 : Converged Database
 ## 6 : Resiliency
 ## 7 : Developing on Oracle Database
