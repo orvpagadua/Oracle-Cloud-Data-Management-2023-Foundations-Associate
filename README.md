@@ -184,6 +184,10 @@ Enterprise Edition Extreme Performance
 - [x] Graph Analytics can be used to discover influencers, dependencies, communities, and ranking. (*)
 
 ## 6 : Resiliency
+
+High Availability is a method of protecting computer systems from failure, in which standby equipment automatically takes over when the main system fails.
+```False```
+
 ## 7 : Developing on Oracle Database
 ## 8 : Data Lake, Data Warehouse & Machine Learning
 ## 9 : Upgrades & Migrations
