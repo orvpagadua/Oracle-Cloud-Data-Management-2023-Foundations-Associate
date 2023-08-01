@@ -222,5 +222,44 @@ Active Data Guard is the Oracle solution for disaster recovery. It eliminates si
 - [ ] It's built outside of the database.
 
 ## 7 : Developing on Oracle Database
+
+Which of the following is a sophisticated, powerful tool for profiling, cleaning, and preparing your data?
+```Enterprise Data Quality (EDQ)```
+
+Which of the following is an Enterprise-class data integration tool with extract-load-transform (ELT) architecture?
+```Oracle Data Integrator (ODI)```
+
+Liquibase is an open-source database-independent library for tracking, managing, and applying database schema changes.
+```True```
+
+Terraform is a tool for building, changing, and versioning infrastructure safely and efficiently.
+```True```
+
+### Test: Skill Check: Developing in Oracle Database
+
+1. Which ADB tool can you use to upload or access data from local files or remote databases?
+- [ ] Data Insights 
+- [ ] Catalog 
+- [ ] Data Transforms 
+- [x] Data Load (*) 
+
+2. Which is NOT an ORDS feature?
+- [ ] Mongo style REST API for Oracle Database (SODA) 
+- [x] Impact analysis (*) 
+- [ ] SQL Developer Web 
+- [ ] Web listener for your Oracle PL/SQL programs or APEX
+
+3. Which is NOT true about low code?
+- [x] rich functionality with more code (*) 
+- [ ] builds apps faster 
+- [ ] scalable 
+- [ ] accessible
+
+4. Which ADB tool can you use to discover anomalies, outliers, and hidden patterns in your data?
+- [x] Data Insights (*) 
+- [ ] Catalog 
+- [ ] Data Transforms 
+- [ ] Data Load 
+
 ## 8 : Data Lake, Data Warehouse & Machine Learning
 ## 9 : Upgrades & Migrations
