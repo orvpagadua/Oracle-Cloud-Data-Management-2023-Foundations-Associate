@@ -262,4 +262,58 @@ Terraform is a tool for building, changing, and versioning infrastructure safely
 - [ ] Data Load 
 
 ## 8 : Data Lake, Data Warehouse & Machine Learning
+
+What are the five key elements of the Oracle Lakehouse?
+```
+Data Lake
+Data Catalog
+Managed Open-Source Services
+Data Warehouse
+Data Integration
+```
+
+Which of the following is the source of truth for object storage metadata and can regularly harvest the information from the data sources?
+```Data Catalog```
+
+The demand side is the need for data sets, models, and libraries.
+```False```
+
+What is a Data Mesh?
+
+```A data solution for enterprise-scale domains and/or event-driven data-centric cloud projects```
+
+### Test: Skill Check: Data Lake, Data Warehouse & ML
+
+1. Which of the following helps avoid manual or exhaustive search techniques?
+- [ ] Adaptive Sampling 
+- [ ] Feature Prediction Impact 
+- [x] Auto Model Tuning (*) 
+- [ ] Auto Algorithm Selection 
+- [ ] Auto Feature Selection
+
+2. Which two are true about Data Catalog?
+- [x] It discovers data using a powerful search. (*) 
+- [ ] Data Catalog does not integrate with Autonomous Database. 
+- [ ] Management is required. 
+- [x] It harvests object storage to derive schemas. (*)
+
+3. What is Data Mesh?
+- [x] It is a single tool or single cloud service that you can buy. 
+- [ ] It is a data solution for enterprise-scale domains and/or event-driven data-centric cloud projects. (*) 
+- [ ] It is a finite project that can be run by an LoB Departmental IT org in isolation. 
+- [ ] It is an alternative point-solution for data warehouse or data lakes.
+
+4. Which three are a part of the five key Lakehouse elements?
+- [x] Data Catalog (*) 
+- [x]  Managed open-source services (*) 
+- [ ] Data load 
+- [x] Data Integration (*) 
+- [ ] Data analysis
+
+5. What protects against external and internal threats?
+- [ ] Data Productivity 
+- [ ] Data Liquidity 
+- [x] Data Security (*) 
+- [ ] Data Governance 
+
 ## 9 : Upgrades & Migrations
