@@ -317,3 +317,49 @@ What is a Data Mesh?
 - [ ] Data Governance 
 
 ## 9 : Upgrades & Migrations
+
+When selecting a migration method for moving your database to the cloud, take into consideration the database version, the database size, and high availability.
+```True```
+
+Which migration type uses RMAN and DataGurad tools?
+
+```Physical Migration```
+
+DMS is free for all common use cases, and what is included in the pricing is the service itself —all the environment that the service runs on and the infrastructure that the service runs on.
+```True```
+
+Oracle Database 19c is the final release supporting non-CDB architecture.
+```True```
+
+What is the only recommended method to update your database?
+```AutoUpgrade```
+
+### Skill Check: Upgrade and Migration
+
+1. What is the most important reason for upgrading and patching a database?
+- [ ] Upgrading and patching the database is not important. 
+- [ ] Fix bugs 
+- [x] Security (*)
+
+2. In which release is the non-CDB architecture supported?
+- [ ] Oracle Database 18c 
+- [ ] Oracle Database 21c 
+- [ ] Oracle Database 20c 
+- [x] Oracle Database 19c (*)
+
+3. Which migration type uses Data Pump and GoldenGate tools?
+- [x] Logical Migration (*) 
+- [ ] Direct Connection 
+- [ ] Indirect Connection 
+- [ ] Physical Migration
+
+4. Which is the recommended method to upgrade databases?
+- [ ] Data Pump Export/Import 
+- [x] AutoUpgrade (*) 
+- [ ] Manual upgrade 
+- [ ] Upgrading the database is not recommended 
+- [ ] Restructure the database 
+
+
+
+
