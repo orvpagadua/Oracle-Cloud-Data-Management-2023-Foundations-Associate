@@ -1,4 +1,5 @@
 1. What is the most important reason to upgrade and patch?
+   
 - [ ] Restructure the database 
 - [ ] Upgrading and patching the database is not important 
 - [x] Security (*) 
